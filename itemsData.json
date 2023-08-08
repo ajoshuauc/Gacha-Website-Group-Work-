@@ -1,0 +1,396 @@
+{
+    "threeStar": {
+        "item1": {
+            "itemName": "Hellu~ Good Morning Anthony",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Hellu~-Good-Morning-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item2": {
+            "itemName": "Soyjak Pointing Charles",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Soyjak-Pointing-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item3": {
+            "itemName": "Disgusted Beastmaster Cedric",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Disgusted-Beastmaster-Cedric.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item4":{
+            "itemName":"Formal Beastmaster Cedric",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Formal-Beastmaster-Cedric.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item5":{
+            "itemName":"Soaked Beast-like Cedric",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Soaked-Beast-like-Cedric.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item6":{
+            "itemName":"Magnified Phiz Raniel",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Magnified-Phiz-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item7":{
+            "itemName":"Romantic Date Charles",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Romantic-Date-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item8":{
+            "itemName":"Casual Stuffed Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Casual-Stuffed-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item9":{
+            "itemName":"Listen As One Charles",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Listen-As-One-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item10":{
+            "itemName":"Scenic View Charles",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Scenic-View-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item11":{
+            "itemName":"Romantic Cedric and Anthony",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Romantic-Cedric-and-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item12":{
+            "itemName":"Birthday Photo Cedric and Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Birthday-Photo-Cedric-and-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item13":{
+            "itemName":"Been Chillincar",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Been-Chillincar.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item14":{
+            "itemName":"Bored Elementary Student Julian",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Bored-Elementary-Student-Julian.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item15":{
+            "itemName":"Rollercoaster Enthusiast Julian",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Rollercoaster-Enthusiast-Julian.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item16":{
+            "itemName":"The Smiling Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/The-Smiling-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item17":{
+            "itemName":"Pinipig Enjoyer Anthony",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Pinipig-Enjoyer-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item18":{
+            "itemName":"Karakol Attendant Anthony",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Karakol-Attendant-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item19":{
+            "itemName":"Master of the Seas Julian",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Master-of-the-Seas-Julian.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item20":{
+            "itemName":"Cult Magician Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Cult-Magician-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        }
+    },
+    "fourStar": {
+        "item1": {
+            "itemName": "God of Thunder Charles",
+            "imageURL": "./asset/pictures/banner-photos/four-star/God-of-Thunder-Charles.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item2": {
+            "itemName": "Chinese Tycoon Julian",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Chinese-Tycoon-Julian.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item3": {
+            "itemName": "Post-Tergeo Studious Cedric", 
+            "imageURL": "./asset/pictures/banner-photos/four-star/Post-Tergeo-Studious-Cedric.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item4": {
+            "itemName": "Shining Radiance Anthony",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Shining-Radiance-Anthony.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item5": {
+            "itemName": "Stylish Afro Raniel",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Stylish-Afro-Raniel.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item6":{
+            "itemName": "Dapper Gentleman Cedric",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Dapper-Gentleman-Cedric.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item7":{
+            "itemName":"Harbinger of Darkness Raniel",
+            "imageURL":"./asset/pictures/banner-photos/four-star/Harbinger-of-Darkness-Raniel.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item8":{
+            "itemName": "Suave Debonair Charles",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Suave-Debonair-Charles.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item9":{
+            "itemName":"Multiverse Observer Julian",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Multiverse-Observer-Julian.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item10":{
+            "itemName":"Forest Sage Anthony",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Forest-Sage-Anthony.png",
+            "itemRank": "⭐⭐⭐⭐"
+        }
+    },
+    "fiveStar": {
+        "item1": {
+            "itemName": "Distinguished Gentlemen Cedric",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Distinguished-Gentlemen-Cedric.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item2": {
+            "itemName": "Omniscient Reader Anthony",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Omniscient-Reader-Anthony.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item3":{
+            "itemName": "Creator of Jiu-jitsu Charles",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Creator-of-Jiu-jitsu-Charles.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item4":{
+            "itemName": "Thunder Hammer King Julian",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Thunder-Hammer-King-Julian.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item5": {
+            "itemName": "Celestial Countenance Raniel",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Celestial-Countenance-Raniel.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        }
+
+    },
+    "sixStar": {
+        "item1": {
+            "itemName": "The Unrivaled Jhumar",
+            "imageURL": "./asset/pictures/banner-photos/six-star/The-Unrivaled-Jhumar.png",
+            "itemRank": "⭐⭐⭐⭐⭐⭐"
+
+        },
+        "item2": {
+            "itemName": "Happiest Day Jhumar",
+            "imageURL": "./asset/pictures/banner-photos/six-star/Wedding-Day-Jhumar.png",
+            "itemRank": "⭐⭐⭐⭐⭐⭐"
+        }
+    }
+}
+
+{
+    "threeStar": {
+        "__comment__":"THIS IS FOR LOCAL DIRECTORY",
+        "item1": {
+            "itemName": "Hellu~ Good Morning Anthony",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Hellu~-Good-Morning-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item2": {
+            "itemName": "Soyjak Pointing Charles",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Soyjak-Pointing-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item3": {
+            "itemName": "Disgusted Beastmaster Cedric",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Disgusted-Beastmaster-Cedric.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item4":{
+            "itemName":"Formal Beastmaster Cedric",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Formal-Beastmaster-Cedric.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item5":{
+            "itemName":"Soaked Beast-like Cedric",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Soaked-Beast-like-Cedric.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item6":{
+            "itemName":"Magnified Phiz Raniel",
+            "imageURL": "./asset/pictures/banner-photos/three-star/Magnified-Phiz-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item7":{
+            "itemName":"Romantic Date Charles",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Romantic-Date-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item8":{
+            "itemName":"Casual Stuffed Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Casual-Stuffed-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item9":{
+            "itemName":"Listen As One Charles",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Listen-As-One-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item10":{
+            "itemName":"Scenic View Charles",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Scenic-View-Charles.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item11":{
+            "itemName":"Romantic Cedric and Anthony",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Romantic-Cedric-and-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item12":{
+            "itemName":"Birthday Photo Cedric and Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Birthday-Photo-Cedric-and-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item13":{
+            "itemName":"Been Chilln'car",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Been-Chilln'car.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item14":{
+            "itemName":"Bored Elementary Student Julian",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Bored-Elementary-Student-Julian.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item15":{
+            "itemName":"Rollercoaster Enthusiast Julian",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Rollercoaster-Enthusiast-Julian.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item16":{
+            "itemName":"The Smiling Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/The-Smiling-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item17":{
+            "itemName":"Pinipig Enjoyer Anthony",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Pinipig-Enjoyer-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item18":{
+            "itemName":"Karakol Attendant Anthony",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Karakol-Attendant-Anthony.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item19":{
+            "itemName":"Master of the Seas Julian",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Master-of-the-Seas-Julian.png",
+            "itemRank": "⭐⭐⭐"
+        },
+        "item20":{
+            "itemName":"Cult Magician Raniel",
+            "imageURL":"./asset/pictures/banner-photos/three-star/Cult-Magician-Raniel.png",
+            "itemRank": "⭐⭐⭐"
+        }
+    },
+    "fourStar": {
+        "item1": {
+            "itemName": "God of Thunder Charles",
+            "imageURL": "./asset/pictures/banner-photos/four-star/God-of-Thunder-Charles.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item2": {
+            "itemName": "Chinese Tycoon Julian",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Chinese-Tycoon-Julian.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item3": {
+            "itemName": "Post-Tergeo Studious Cedric", 
+            "imageURL": "./asset/pictures/banner-photos/four-star/Post-Tergeo-Studious-Cedric.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item4": {
+            "itemName": "Shining Radiance Anthony",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Shining-Radiance-Anthony.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item5": {
+            "itemName": "Stylish Afro Raniel",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Stylish-Afro-Raniel.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item6":{
+            "itemName": "Dapper Gentleman Cedric",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Dapper-Gentleman-Cedric.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item7":{
+            "itemName":"Harbinger of Darkness Raniel",
+            "imageURL":"./asset/pictures/banner-photos/four-star/Harbinger-of-Darkness-Raniel.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item8":{
+            "itemName": "Suave Debonair Charles",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Suave-Debonair-Charles.png",
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item9":{
+            "itemName":"Multiverse Observer Julian",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Multiverse-Observer-Julian.png" ,
+            "itemRank": "⭐⭐⭐⭐"
+        },
+        "item10":{
+            "itemName":"Forest Sage Anthony",
+            "imageURL": "./asset/pictures/banner-photos/four-star/Forest-Sage-Anthony.png",
+            "itemRank": "⭐⭐⭐⭐"
+        }
+    },
+    "fiveStar": {
+        "item1": {
+            "itemName": "Distinguished Gentlemen Cedric",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Distinguished-Gentlemen-Cedric.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item2": {
+            "itemName": "Omniscient Reader Anthony",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Omniscient-Reader-Anthony.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item3":{
+            "itemName": "Creator of Jiu-jitsu Charles",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Creator-of-Jiu-jitsu-Charles.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item4":{
+            "itemName": "Thunder Hammer King Julian",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Thunder-Hammer-King-Julian.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        },
+        "item5": {
+            "itemName": "Celestial Countenance Raniel",
+            "imageURL": "./asset/pictures/banner-photos/five-star/Celestial-Countenance-Raniel.png",
+            "itemRank": "⭐⭐⭐⭐⭐"
+        }
+
+    },
+    "sixStar": {
+        "item1": {
+            "itemName": "The Unrivaled Jhumar",
+            "imageURL": "./asset/pictures/banner-photos/six-star/The-Unrivaled-Jhumar.png",
+            "itemRank": "⭐⭐⭐⭐⭐⭐"
+
+        },
+        "item2": {
+            "itemName": "Wedding Day Jhumar",
+            "imageURL": "./asset/pictures/banner-photos/six-star/Wedding-Day-Jhumar.png",
+            "itemRank": "⭐⭐⭐⭐⭐⭐"
+        }
+    }
+}
